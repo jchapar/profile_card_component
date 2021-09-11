@@ -1,0 +1,30 @@
+// Variables
+:root {
+  --darkCyan: hsl(185, 75%, 39%);
+  --veryDarkDesaturatedBlue: hsl(229, 23%, 23%);
+  --darkGrayishBlue: hsl(227, 10%, 46%);
+  --darkGray: hsl(0, 0%, 59%);
+
+  --ff: "Kumbh Sans", sans-serif;
+
+  font-size: 10px;
+}
+
+.container {
+  max-width: 37.5rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main {
+  height: 100vh;
+  width: 100%;
+}
+
+main > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}

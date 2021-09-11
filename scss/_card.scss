@@ -1,0 +1,17 @@
+.card {
+  border-radius: 1.5rem;
+  width: 100%;
+  overflow: hidden;
+  box-shadow: 0 8px 8px -4px rgba(0, 0, 0, 0.7);
+
+  &-header {
+    background: url(../images/bg-pattern-card.svg) no-repeat center center /
+      cover;
+    height: 15rem;
+  }
+
+  &-content {
+    background: #fff;
+    height: 100%;
+  }
+}

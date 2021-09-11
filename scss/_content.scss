@@ -1,0 +1,23 @@
+.card-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .card-img {
+    border-radius: 50%;
+    border: 0.4rem solid #fff;
+    transform: translateY(-5rem);
+  }
+
+  h2 {
+    color: #000;
+
+    span {
+      color: var(--darkGray);
+    }
+  }
+
+  .social-stats {
+    margin: 0;
+  }
+}

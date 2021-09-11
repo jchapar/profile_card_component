@@ -1,0 +1,25 @@
+body {
+  background-color: var(--darkCyan);
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+.bg-pattern-top,
+.bg-pattern-bottom {
+  display: none;
+}
+
+// .bg-pattern-top {
+//   top: 0;
+//   left: 0;
+//   transform: translate(-20rem, -15rem);
+// }
+
+// .bg-pattern-bottom {
+//   bottom: 0;
+//   right: 0;
+//   transform: translate(-3rem, -6rem);
+// }
+
+// main {
+//   z-index: 5;
+// }
