@@ -20,8 +20,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./dist/images/mobile.png)
-![](./dist/images/desktop.png)
+![./dist/images/mobile.png](./dist/images/mobile.png)
+![./dist/images/desktop.png](./dist/images/desktop.png)
 
 ### Links
 
@@ -39,5 +39,5 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/jchapar)
-- Twitter - [@yourusername](https://www.twitter.com/j_chapar)
+- Frontend Mentor - [@jchapar](https://www.frontendmentor.io/profile/jchapar)
+- Twitter - [@j_chapar](https://www.twitter.com/j_chapar)
