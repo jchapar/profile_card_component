@@ -22,3 +22,14 @@ main {
   position: relative;
   z-index: 3;
 }
+
+@media (min-width: 800px) {
+  .bg-pattern-top {
+    top: -50rem;
+    left: -10rem;
+  }
+  .bg-pattern-bottom {
+    bottom: -50rem;
+    right: -10rem;
+  }
+}
