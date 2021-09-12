@@ -33,3 +33,13 @@ main {
     right: -10rem;
   }
 }
+@media (min-width: 600px) {
+  .bg-pattern-top {
+    top: -35rem;
+    left: -25rem;
+  }
+  .bg-pattern-bottom {
+    bottom: -35rem;
+    right: -25rem;
+  }
+}
