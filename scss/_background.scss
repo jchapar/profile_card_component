@@ -5,21 +5,20 @@ body {
 
 .bg-pattern-top,
 .bg-pattern-bottom {
-  display: none;
+  position: absolute;
+  z-index: 1;
 }
 
-// .bg-pattern-top {
-//   top: 0;
-//   left: 0;
-//   transform: translate(-20rem, -15rem);
-// }
+.bg-pattern-top {
+  top: -15rem;
+  left: -25rem;
+}
+.bg-pattern-bottom {
+  bottom: -15rem;
+  right: -25rem;
+}
 
-// .bg-pattern-bottom {
-//   bottom: 0;
-//   right: 0;
-//   transform: translate(-3rem, -6rem);
-// }
-
-// main {
-//   z-index: 5;
-// }
+main {
+  position: relative;
+  z-index: 3;
+}
